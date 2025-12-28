@@ -4,8 +4,8 @@ import re
 from nltk.corpus import stopwords
 
 st.set_page_config(
-    page_title="Fake News Detection",
-    page_icon="📰",
+    page_title="Azhal Fake News Detection",
+    page_icon="Azhal.png",
     layout="centered"
 )
 
@@ -93,3 +93,4 @@ if st.button("🔍 Predict"):
                 unsafe_allow_html=True
             )
             st.progress(int(confidence))
+
