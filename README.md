@@ -32,11 +32,13 @@ Pickle
 ```
 Fake-News-Detection/
 │
-├── app.py
-├── logistic_regression_model.pkl
-├── tfidf_vectorizer.pkl
-├── requirements.txt
-└── README.md
+|--LICENSE
+|--README.md
+|--app.py
+|--logistic_regression_model.pkl
+|--requirements.txt
+|--tfidf_vectorizer.pkl
+└── train_news.7z
 ```
 ## **Installation & Setup**
 **1️.Clone the Repository**
