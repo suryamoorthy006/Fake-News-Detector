@@ -1,4 +1,6 @@
-fastapi
-uvicorn
+streamlit
 scikit-learn
+pandas
+numpy
 nltk
+pickle-mixin
